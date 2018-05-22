@@ -50,5 +50,5 @@ Examples:
 
 
 # How to run it:
-```#docker-compose up```
+```docker-compose up```
 
