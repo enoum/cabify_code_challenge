@@ -26,8 +26,6 @@ co.scan("TSHIRT")
 price = co.total
 ```
 
-Using ruby (>= 2.0), implement a checkout process that fulfills the requirements.
-
 Examples:
 
     Items: VOUCHER, TSHIRT, MUG
